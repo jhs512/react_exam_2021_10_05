@@ -5,7 +5,7 @@ function App() {
 
   return (
     <div className="App">
-      <div className="w-[500px] h-[100px] bg-[#afafaf]"></div>
+      <div className="w-[100px] h-[100px] bg-[#afafaf]"></div>
     </div>
   )
 }

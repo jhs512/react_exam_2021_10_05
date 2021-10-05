@@ -1,0 +1,6 @@
+{
+	"appId": "com.jhs.exam1",
+	"appName": "exam1",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
